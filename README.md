@@ -124,10 +124,4 @@ This project is intended for educational purposes only.
 
 ---
 
-If you'd like, I can also:
-✅ Create a **short README version**  
-✅ Align this README to a specific course rubric  
-✅ Generate the **2‑page PDF report**  
-✅ Add **badges and visuals** for GitHub  
 
-Just let me know!
